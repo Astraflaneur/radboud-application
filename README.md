@@ -39,7 +39,7 @@ radboud-application/
 
 ## Environment & dependencies
 
-**Python:** 3.9+  
+**Python:** 3.11+  
 **Required packages:**  
 ```bash
 numpy>=1.23
@@ -101,7 +101,7 @@ Later phases (B, C) will build on this:
 
 --- -->
 
-## 📚 References
+## References
 
 1. Baik, J., Ben Arous, G., & Péché, S. (2005). *Phase transition of the largest eigenvalue for nonnull complex sample covariance matrices.*
 2. Marchenko, V. A., & Pastur, L. A. (1967). *Distribution of eigenvalues for some sets of random matrices.*
@@ -109,23 +109,10 @@ Later phases (B, C) will build on this:
 4. Benna, M. K., & Fusi, S. (2016). *Computational principles of synaptic memory consolidation.* *Nat Neurosci.*
 5. Attwell, D., & Laughlin, S. B. (2001). *An energy budget for signaling in grey matter of the brain.*
 
----
-
-## 🧾 License
+## License
 
 MIT License (for code).
 Figures and text © 2025 Sagar Barad, shared for academic review only.
-
----
-
-## 🧩 Citation
-
-If you refer to this demo, please cite as:
-
-> S. Barad (2025). *Representation Phase Transitions in Low-Rank Neural Networks* (technical appendix, Radboud AI application).
-> GitHub: [github.com/sbarad/radboud-application](https://github.com/sbarad/radboud-application)
-
----
 
 *This repository is designed for full transparency and easy verification by reviewers, all code is deterministic, documented, and runs end-to-end on CPU or GPU.*
 
